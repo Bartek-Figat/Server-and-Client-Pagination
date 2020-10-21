@@ -10,7 +10,7 @@
     "mdbreact": "git+https://oauth2:YOUR_TOKEN_GOES_HERE@git.mdbootstrap.com/mdb/jquery/jq-pro.git",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.4"
   },
   "scripts": {
     "start": "react-scripts start",
